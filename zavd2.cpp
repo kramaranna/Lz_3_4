@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-int main()
+int main() 
 {
     double i=1, a=1, b=6, k, x, y, h;
     cout<<"\nВведіть k: ";
